@@ -16,23 +16,24 @@ A versatile fast-learning software developer with hands-on cutting edge technolo
 
 <br />
 
-  <summary><b>🔎 Github Profile Details</b></summary>
+  <summary align="center"><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Burence1&theme=github_dark" alt="Burens" align = "center"/></p>
 
- <summary><b>🔥 Github Stats</b></summary>
+ <summary align="center"><b>🔥 Github Stats</b></summary>
 <p align="center"><a href="https://github.com/Burence1/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Burence1&show_icons=true&theme=github_dark" alt="Burens" />
 </a></p>
 
+<summary align="center"><b>📊 Most Used Languages</b></summary><br>
 <p align="center"><a href="https://github.com/Burence1/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burence1&theme=github_dark" />
 </a></p>
 
- <summary><b>🔥 Github Streaks</b></summary>
+ <summary align="center"><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Burence1&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="arrotech" /></p>
 
-<summary><b>📊 Github Contribution Graph</b></summary>
+<summary align="center"><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Burence1&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
 <br />
