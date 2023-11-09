@@ -31,7 +31,7 @@ A versatile fast-learning software developer with hands-on cutting edge technolo
 </a></p>
 
  <summary align="center"><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Burence1&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="arrotech" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Burence1&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Github Streaks" /></p>
 
 <summary align="center"><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Burence1&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
